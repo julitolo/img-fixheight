@@ -1,0 +1,7 @@
+{
+  "name": "img-fixheight#gh-pages",
+  "private": true,
+  "dependencies": {
+    "img-fixheight": "didrocks/img-fixheight#master"
+  }
+}
